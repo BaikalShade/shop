@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "v-card",
+  name: 'v-card',
 };
 </script>
 
